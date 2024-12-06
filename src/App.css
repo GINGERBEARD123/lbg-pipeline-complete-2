@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid red;
+  border: 10px solid darkgreen;
   padding: 10px;
 }
 
@@ -13,7 +13,7 @@
 }
 
 h1 { 
-    color: maroon;
+    color: rebeccapurple;
 }
 
 h3 { 
